@@ -1,0 +1,2 @@
+# InheritanceDemo
+All inheritance program
