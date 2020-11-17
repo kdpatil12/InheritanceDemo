@@ -15,7 +15,11 @@ class Circle extends Shape
 	void draw()
 	{
 		System.out.println("in Circle draw");
+		System.out.println("in Circle draw");
 	}
+	
+	
+
 }
 class Rect extends Shape
 {
